@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.ac29918c.css",
-    "main.js": "/Portfolio/static/js/main.99c4fc9d.js",
+    "main.js": "/Portfolio/static/js/main.ffb8ed44.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/gifExpertApp.PNG": "/Portfolio/static/media/gifExpertApp.3b77c11ec3c8df073e7d.PNG",
+    "static/media/journalApp.PNG": "/Portfolio/static/media/journalApp.dcfdb4fab7d88f85108f.PNG",
     "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/CV-Fernando Vilca.pdf": "/Portfolio/static/media/CV-Fernando Vilca.5990ce1bec1ea19bb9bd.pdf",
@@ -13,12 +14,12 @@
     "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio/index.html",
     "main.ac29918c.css.map": "/Portfolio/static/css/main.ac29918c.css.map",
-    "main.99c4fc9d.js.map": "/Portfolio/static/js/main.99c4fc9d.js.map",
+    "main.ffb8ed44.js.map": "/Portfolio/static/js/main.ffb8ed44.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac29918c.css",
-    "static/js/main.99c4fc9d.js"
+    "static/js/main.ffb8ed44.js"
   ]
 }
